@@ -47,3 +47,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+code {
+  color: var(--atom-Color-grey-700);
+}
