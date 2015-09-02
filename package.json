@@ -1,0 +1,25 @@
+{
+  "name": "template-demo-pages",
+  "version": "0.0.1",
+  "author": "Frederik Krautwald",
+  "description": "Demo pages style template",
+  "license": "MIT",
+  "bugs": "https://github.com/CyclicMaterials/template-demo-pages/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyclicMaterials/template-demo-pages"
+  },
+  "keywords": [
+    "cyclejs",
+    "demo",
+    "styles",
+    "template",
+    "Material Design"
+  ],
+  "dependencies": {
+    "atom-color": "git://github.com/CyclicMaterials/atom-color",
+    "atom-typography": "git://github.com/CyclicMaterials/atom-typography"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
