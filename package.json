@@ -17,8 +17,8 @@
     "Material Design"
   ],
   "dependencies": {
-    "atom-color": "git://github.com/CyclicMaterials/atom-color",
-    "atom-typography": "git://github.com/CyclicMaterials/atom-typography"
+    "@cyclic/atom-color": "^1.0.0",
+    "@cyclic/atom-typography": "^1.0.0"
   },
   "devDependencies": {
     "cli-release": "^1.0.3",
