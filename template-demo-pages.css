@@ -1,5 +1,5 @@
-@import "atom-color/atom-color.css";
-@import "atom-typography/atom-typography";
+@import "@cyclic/atom-color/atom-color.css";
+@import "@cyclic/atom-typography/atom-typography";
 
 body {
   font-family: "Roboto", "Noto", sans-serif;
